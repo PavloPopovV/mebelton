@@ -670,6 +670,11 @@ h3{
         width: 140px;
         height: 144px;
     }
+    .img img{
+        width: 140px;
+        height: 144px;
+        object-fit: cover;
+    }
     .load_more{
         position: absolute;
         bottom: -130px;

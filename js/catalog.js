@@ -39,7 +39,7 @@ $('.slider_modal').slick({
     arrows:false,
     infinite: true,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 1000,
     fade: true,
 
     slidesToShow: 2,

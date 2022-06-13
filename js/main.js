@@ -68,7 +68,7 @@ $('.slider_modal').slick({
     autoplay: true,
     autoplaySpeed: 1000,
     fade: true,
-
+    
     slidesToShow: 2,
     slidesToScroll: 1,
 });
